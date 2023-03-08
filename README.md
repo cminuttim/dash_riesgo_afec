@@ -3,7 +3,7 @@ El sistema desarrollado permite modelar el riesgo de defunción y severidad hosp
 
 Valores superiores a 50% indican un mayor riesgo de defunción y mayor severidad, mientras que valores menores al 50% indican mayor posibilidad de sobrevivencia y menor severidad. Es importante mencionar que el sistema no se utiliza para determinar los riesgos de pacientes específicos, sino que es un modelado estadístico para estudiar cómo interactúan conjuntamente los diferentes factores en cada enfermedad, en hospitalizaciones que ocurren dentro de la Zona del Valle de México.
 
-El modelo final es un modelo ponderado de Gradient Boosting Models (GBM), Árboles de Regresión y Regresión Logística. El archivo PICKLE original de los modelos no se incluye por razones de privacidad de los datos, en cambio se incluye un archivo PICKLE generado a partir de datos sintéticos.
+El modelo final es un modelo ponderado de Gradient Boosting Models (GBM), Árboles de Regresión y Regresión Logística. El archivo PICKLE original de los modelos **no se incluye por razones de privacidad de los datos**, en cambio se incluye un archivo PICKLE generado a partir de **datos sintéticos**.
 
 **Proyecto CONACyT**: Observatorio de datos para descubrimientos de patrones Sociales-EspacioTemporales en Salud, Movilidad y Calidad del Aire.
 
