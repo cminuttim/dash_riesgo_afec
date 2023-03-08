@@ -1,0 +1,8 @@
+dash==1.21.0
+dash_core_components==1.17.1
+dash_html_components==1.1.4
+numpy==1.24.0
+pandas==1.5.2
+plotly==5.10.0
+scikit_learn==1.2.1
+statsmodels==0.13.5
