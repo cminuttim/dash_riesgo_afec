@@ -19,6 +19,8 @@ Ejecutar `ipython dash_afecciones.py`
 
 
 ## Requisitos
+`pip install -r requirements.txt`
+
 [Archivo requirements.txt](requirements.txt)
 
 ### Lista de archivos
