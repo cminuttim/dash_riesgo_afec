@@ -26,6 +26,7 @@ Ejecutar `ipython dash_afecciones.py`
 
 [risk_models-rnd.pickle](risk_models-rnd.pickle): Archivo PICKLE de los modelos generados a partir de datos sintéticos.	
 
+[dash_afecciones.mp4](dash_afecciones.mp4): Video del funcionamiento del dashboard de modelos predictivos para la severidad hospitalaria.	
 
 
 ### Repositorios relacionados
