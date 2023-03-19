@@ -38,7 +38,7 @@ Ejecutar `ipython dash_afecciones.py`
 ## Cita
 
 Por favor, cite el repositorio si utiliza los datos o el código de este repositorio.
-```
+```bibtex
 @misc{dash_riesgo_afec,
   author = {Carlos Minutti},
   title = {Sistema web para la modelización del riesgo de defunción y la severidad hospitalaria asociada a afecciones médicas},
