@@ -35,15 +35,16 @@ Ejecutar `ipython dash_afecciones.py`
 [Generación automatizada de modelos predictivos del número y severidad de las hospitalizaciones](https://github.com/cminuttim/modelos_hosp)
 
 
-## Citar
+## Cita
 
-```bibtex
-@software{dash_riesgo_afec,
-  title = {{Sistema web para la modelización del riesgo de defunción y la severidad hospitalaria asociada a afecciones médicas}},
+Por favor, cite el repositorio si utiliza los datos o el código de este repositorio.
+```
+@misc{dash_riesgo_afec,
   author = {Carlos Minutti},
-  url = {https://github.com/cminuttim/dash_riesgo_afec/},
-  month = {3},
+  title = {Sistema web para la modelización del riesgo de defunción y la severidad hospitalaria asociada a afecciones médicas},
   year = {2023},
-  version = {0.1},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/cminuttim/dash_riesgo_afec}},
 }
 ```
